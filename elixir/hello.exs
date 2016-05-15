@@ -1,1 +1,2 @@
-IO.puts "what up"
+list = [hello: "what up"]
+IO.puts list[:hello]
