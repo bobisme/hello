@@ -1,0 +1,3 @@
+## macOS
+
+`brew install nim`
