@@ -1,2 +1,0 @@
-run:
-	elixir hello.exs
