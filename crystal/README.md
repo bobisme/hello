@@ -5,7 +5,7 @@ The only thing important is src/hello.cr.
 # macOS
 
 ```
-brew install crystal
+brew install crystal-lang
 make
 ./hello
 ```
