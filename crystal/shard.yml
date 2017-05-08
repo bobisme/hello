@@ -1,0 +1,13 @@
+name: hello
+version: 0.1.0
+
+authors:
+  - Bob <bob@theonetruebob.com>
+
+targets:
+  hello:
+    main: src/hello.cr
+
+crystal: 0.22.0
+
+license: MIT
